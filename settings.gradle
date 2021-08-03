@@ -1,0 +1,2 @@
+rootProject.name='NavDrawerDemo'
+include ':app'
